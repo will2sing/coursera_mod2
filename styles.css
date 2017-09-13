@@ -1,5 +1,5 @@
 ﻿
-/*****CSS file for Coursera Module 2 ******/
+/*****CSS file for Coursera Module 2 ********/
 /***** Base Styles *****/
 * {
   box-sizing: border-box;
@@ -33,6 +33,7 @@ div.col-lg-4 {
 }
 .title1, .title2, .title3 {
 	size: 1.25em;
+	border: 1px solid black;
 }
 .title1 {
 	width: 80px;
